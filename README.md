@@ -1,8 +1,5 @@
-![austin animal center](./images/austin-animal-center.jpg)
 
 # Analyzing the Movie Universe
-
-**Author**: [Alison Peebles Madigan](mailto:alison.peeblesmadigan@flatironschool.com)
 
 ## Overview
 
